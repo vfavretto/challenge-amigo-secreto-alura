@@ -43,21 +43,21 @@
 Digite o nome no campo de texto e clique em "Adicionar" ou pressione Enter.
 
 <p align="center">
-  <img src="https://imgur.com/5GAZsHf" alt="Adicionando Participantes" width="450">
+  <img src="https://i.imgur.com/5GAZsHf.png" alt="Adicionando Participantes" width="450">
 </p>
 
 ### Removendo Participantes
 Clique no botão "X" ao lado do nome para removê-lo da lista.
 
 <p align="center">
-  <img src="https://imgur.com/eAjOtuq" alt="Removendo Participantes" width="450">
+  <img src="https://i.imgur.com/eAjOtuq.png" alt="Removendo Participantes" width="450">
 </p>
 
 ### Realizando o Sorteio
 Após adicionar os participantes, clique no botão "Sortear amigo".
 
 <p align="center">
-  <img src="https://imgur.com/RwioXFp" alt="Resultado do Sorteio" width="450">
+  <img src="https://i.imgur.com/RwioXFp.png" alt="Resultado do Sorteio" width="450">
 </p>
 
 ## 🛠️ Tecnologias Utilizadas
